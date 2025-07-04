@@ -1,5 +1,8 @@
 ## Predicting Package Delivery Delays
-Machine Learning and Data Analytics offered by UC Berkeley Industrial Engineering and Operations
+
+![Postal-Delivery-Package](https://github.com/user-attachments/assets/031df13a-ca1b-4a18-867c-fe038324320c)
+
+Machine Learning and Data Analytics offered by UC Berkeley, College of Industrial Engineering and Operations
 
 Models: 
 - Linear Discriminant Analysis (LDA)
